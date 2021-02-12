@@ -1,0 +1,385 @@
+---
+- :title: Ascomycota
+  :description: 'Ascomycota is a phylum of the kingdom Fungi that, together with the
+    Basidiomycota, forms the subkingdom Dikarya. Its members are commonly known as
+    the sac fungi or ascomycetes. It is the largest phylum of Fungi, with over 64,000
+    species.[2] The defining feature of this fungal group is the "ascus" (from Greek:
+    ἀσκός (askos), meaning "sac" or "wineskin"), a microscopic sexual structure in
+    which nonmotile spores, called ascospores, are formed. However, some species of
+    the Ascomycota are asexual, meaning that they do not have a sexual cycle and thus
+    do not form asci or ascospores.  Familiar examples of sac fungi include morels,
+    truffles, brewer''s yeast and baker''s yeast, dead man''s fingers, and cup fungi.
+    The fungal symbionts in the majority of lichens (loosely termed "ascolichens")
+    such as Cladonia belong to the Ascomycota.'
+- :title: Dikarya
+  :description: |-
+    Ascomycota
+    Basidiomycota
+- :title: Basidiomycota
+  :description: |-
+    Basidiomycota (/bəˌsɪdioʊmaɪˈkoʊtə/)[2] is one of two large divisions that, together with the Ascomycota, constitute the subkingdom Dikarya (often referred to as the "higher fungi") within the kingdom Fungi.
+    More specifically, Basidiomycota includes these groups: mushrooms, puffballs, stinkhorns, bracket fungi, other polypores, jelly fungi, boletes, chanterelles, earth stars, smuts, bunts, rusts, mirror yeasts, and the human pathogenic yeast Cryptococcus.
+    Basidiomycota are filamentous fungi composed of hyphae (except for basidiomycota-yeast) and reproduce sexually via the formation of specialized club-shaped end cells called basidia that normally bear external meiospores (usually four). These specialized spores are called basidiospores.[3] However, some Basidiomycota are obligate asexual reproducers. Basidiomycota that reproduce asexually (discussed below) can typically be recognized as members of this division by gross similarity to others, by the formation of a distinctive anatomical feature (the clamp connection), cell wall components, and definitively by phylogenetic molecular analysis of DNA sequence data.
+- :title: Agaricomycotina
+  :description: "Tremellomycetes \nDacrymycetes\nAgaricomycetes\n\nClass/Order incertae
+    sedis"
+- :title: Agaricomycetes
+  :description: Agaricomycetidae
+- :title: Agaricales
+  :description: |-
+    Amanitales Jülich (1981)
+    Cortinariales Jülich (1981)
+    Entolomatales Jülich (1981)
+    Fistulinales Jülich (1981)
+    Schizophyllales Nuss (1980)
+- :title: Agaricomycetidae
+  :description: |-
+    Agaricales
+    Amylocorticiales
+    Atheliales
+    Boletales
+    Jaapiales
+- :title: Agaricaceae
+  :description: 85; See text
+- :title: Agaricus
+  :description: Agaricus is a genus of mushrooms containing both edible and poisonous
+    species, with possibly over 300 members worldwide.[2][3]  The genus includes the
+    common ("button") mushroom (Agaricus bisporus) and the field mushroom (A. campestris),
+    the dominant cultivated mushrooms of the West.
+- :title: Agaricus bisporus
+  :description: Agaricus bisporus is an edible basidiomycete mushroom native to grasslands
+    in Europe and North America. It has two color states while immature – white and
+    brown – both of which have various names, with additional names for the mature
+    state.
+- :title: Amanitaceae
+  :description: "Amanita\nAmarrendia\nCatatrama \nLimacella\nLimacellopsis\nSaproamanita\nTorrendia\nZhuliangomyces"
+- :title: Amanita
+  :description: The genus Amanita contains about 600 species of agarics, including
+    some of the most toxic known mushrooms found worldwide, as well as some well-regarded
+    edible species. This genus is responsible for approximately 95% of the fatalities
+    resulting from mushroom poisoning, with the death cap accounting for about 50%
+    on its own. The most potent toxin present in these mushrooms is α-amanitin.
+- :title: Amanita caesarea
+  :description: Amanita caesarea, commonly known as  Caesar's mushroom, is a highly
+    regarded edible mushroom in the genus Amanita, native to southern Europe and North
+    Africa. While it was first described by Giovanni Antonio Scopoli in 1772, this
+    mushroom was a known favorite of early rulers of the Roman Empire.[1]
+- :title: Amanita muscaria
+  :description: Amanita muscaria, commonly known as the fly agaric or fly amanita,
+    is a basidiomycete of the genus Amanita. It is also a muscimol mushroom. Native
+    throughout the temperate and boreal regions of the Northern Hemisphere, Amanita
+    muscaria has been unintentionally introduced to many countries in the Southern
+    Hemisphere, generally as a symbiont with pine and birch plantations, and is now
+    a true cosmopolitan species. It associates with various deciduous and coniferous
+    trees.
+- :title: Amanita phalloides
+  :description: Amanita phalloides /æməˈnaɪtə fəˈlɔɪdiːz/, commonly known as the death
+    cap, is a deadly poisonous basidiomycete fungus, one of many in the genus Amanita.
+    Widely distributed across Europe, but now sprouting in other parts of the world,
+    A. phalloides forms ectomycorrhizas with various broadleaved trees. In some cases,
+    the death cap has been introduced to new regions with the cultivation of non-native
+    species of oak, chestnut, and pine. The large fruiting bodies (mushrooms) appear
+    in summer and autumn; the caps are generally greenish in colour with a white stipe
+    and gills.  Cap colour is variable, including white forms (see Taxonomy below),
+    and thus not a reliable identifier.
+- :title: Boletales
+  :description: The Boletales are an order of Agaricomycetes containing over 1300
+    species with a diverse array of fruiting body types. The boletes are the best
+    known members of this group, and until recently, the Boletales were thought to
+    only contain boletes. The Boletales are now known to contain distinct groups of
+    agarics, gasteromycetes, and other fruiting-body types.
+- :title: Boletus
+  :description: Boletus is a genus of mushroom-producing fungi, comprising over 100
+    species. The genus Boletus was originally broadly defined and described by Carl
+    Linnaeus in 1753, essentially containing all fungi with hymenial pores instead
+    of gills. Since then, other genera have been defined gradually, such as Tylopilus
+    by Petter Adolf Karsten in 1881, and old names such as Leccinum have been resurrected
+    or redefined. Some mushrooms listed in older books as members of the genus have
+    now been placed in separate genera. These include such as Boletus scaber, now
+    Leccinum scabrum, Tylopilus felleus, Chalciporus piperatus and Suillus luteus.
+    More recently, Boletus has been found to be massively polyphyletic, with only
+    a small percentage of the over 300 species that have been assigned to Boletus
+    actually belonging there and necessitating the description and resurrection of
+    many more genera.[2][3][4][5]
+- :title: Polypore
+  :description: Polypores are a group of fungi that form large fruiting bodies with
+    pores or tubes on the underside (see Delimitation for exceptions). They are a
+    morphological group of basidiomycetes-like gilled mushrooms and hydnoid fungi,
+    and not all polypores are closely related to each other. Polypores are also called
+    bracket fungi, and their woody fruiting bodies are called conks.
+- :title: Calvatia gigantea
+  :description: Langermannia gigantea (Batsch ex Pers.) Rostk.
+- :title: Cantharellales
+  :description: The Cantharellales are an order of fungi in the class Agaricomycetes.
+    The order includes not only the chanterelles (Cantharellaceae), but also some
+    of the tooth fungi (Hydnaceae), clavarioid fungi (Aphelariaceae and Clavulinaceae),
+    and corticioid fungi (Botryobasidiaceae). Species within the order are variously
+    ectomycorrhizal, saprotrophic, associated with orchids, or facultative plant pathogens.
+    Those of economic importance include edible and commercially collected Cantharellus,
+    Craterellus, and Hydnum species as well as crop pathogens in the genera Ceratobasidium
+    and Thanatephorus (Rhizoctonia).
+- :title: Cantharellus
+  :description: Cantharellus is a genus of popular edible mushrooms, commonly known
+    as chanterelles/ˌʃæntəˈrɛl/, a name which can also refer to the type species,
+    Cantharellus cibarius. They are mycorrhizal fungi, meaning they form symbiotic
+    associations with plants, making them very difficult to cultivate. Caution must
+    be used when identifying chanterelles for consumption due to lookalikes, such
+    as the Jack-O-Lantern species (Omphalotus olearius and others), which can make
+    a person very ill. Despite this, chanterelles are one of the most recognized and
+    harvested groups of edible mushrooms.
+- :title: Chanterelle
+  :description: Chanterelle is the common name of several species of fungi in the
+    genera Cantharellus, Craterellus, Gomphus, and Polyozellus. They are among the
+    most popular of wild edible mushrooms. They are orange, yellow or white, meaty
+    and funnel-shaped. On the lower surface, underneath the smooth cap, most species
+    have rounded, forked gills that run almost all the way down the stipe, which tapers
+    down seamlessly from the cap. Many species emit a fruity aroma, reminiscent of
+    apricots, and often have a mildly peppery taste (hence its German name, Pfifferling).
+    The name chanterelle originates from the Greek kantharos meaning "tankard" or
+    "cup",[1][2] a reference to their general shape.
+- :title: Copelandia
+  :description: Copelandia is a now deprecated [1] genus of mushrooms consisting of
+    at least 12 species.[2] Many American mycologists previously placed members of
+    Panaeolus which stain blue into Copelandia, whilst European mycologists generally
+    used the name Panaeolus instead.  Now all mushrooms previously categorised under
+    Copelandia are universally classified in Panaeolus.[1] The genus Copelandia was
+    created as a subgenus of Panaeolus by Abbé Giacomo Bresadola (1847–1929) in honor
+    of Edwin Bingham Copeland (1873–1964), an American who gathered fungi in the Philippines
+    and sent some collections to Bresadola.
+- :title: Galerina
+  :description: |-
+    Galerina Kühner
+    Naucoriopsis Kühner
+    Tubariopsis Kühner
+- :title: Galerina marginata
+  :description: |-
+    Agaricus marginatus Batsch (1789)
+    Agaricus unicolor Vahl (1792)
+    Agaricus autumnalis Peck (1872)
+    Pholiota marginata (Batsch) Quél. (1872)
+    Pholiota discolor Peck (1873)
+    Galerina unicolor (Vahl) Singer (1936)
+    Galerina venenata (Vahl) Singer (1953)
+    Galerina autumnalis (Peck) A.H.Sm. & Singer (1964)
+    Galerina oregonensis A.H.Sm. (1964)
+- :title: Gasteroid fungi
+  :description: The gasteroid fungi are a group of  fungi in the Basidiomycota. Species
+    were formerly placed in the obsolete class Gasteromycetes Fr. (literally "stomach
+    fungi"), or the equally obsolete order Gasteromycetales Rea, because they produce
+    spores inside their basidiocarps (fruit bodies) rather than on an outer surface.[1]
+    However, the class is polyphyletic, as such species—which include puffballs, earthstars,
+    stinkhorns, and false truffles—are not closely related to each other. Because
+    they are often studied as a group, it has been convenient to retain the informal
+    (non-taxonomic) name of "gasteroid fungi".
+- :title: Geastrales
+  :description: |-
+    Geasteroides
+    Geastrum
+    Myriostoma
+    Nidulariopsis
+    Phialastrum
+    Radiigera
+    Schenella
+    Sphaerobolus
+- :title: Geastrum
+  :description: About 50; See text
+- :title: Gymnopilus
+  :description: Gymnopilus is a genus of gilled mushrooms within the fungal family
+    Strophariaceae containing about 200[1] rusty-orange spored mushroom species formerly
+    divided among Pholiota and the defunct genus Flammula.   The fruit body is typically
+    reddish brown to rusty orange to yellow, medium to large, often with a well-developed
+    veil.  Most members of Gymnopilus grow on wood but at times may appear terrestrial
+    if the wood is buried or decomposed. Members of Pholiota and Cortinarius are easy
+    to confuse with Gymnopilus. Pholiota can be distinguished by its viscid cap and
+    duller (brown to cinnamon brown) spores, and Cortinarius grows on the ground.
+    Beginners can confuse Gymnopilus with Galerina, which contains deadly poisonous
+    species.
+- :title: Hydnoid fungi
+  :description: The hydnoid fungi are a group of fungi in the Basidiomycota with basidiocarps
+    (fruit bodies) producing spores on pendant, tooth-like or spine-like projections.
+    They are colloquially called tooth fungi. Originally such fungi were referred
+    to the genus Hydnum ("hydnoid" means Hydnum-like), but it is now known that not
+    all hydnoid species are closely related.
+- :title: Hymenogastraceae
+  :description: "Naucoria (Alnicola)\nAnamika[1]\nFlammula \nGalerina \nHebeloma\nHymenogaster
+    \nPhaeocollybia\nPsathyloma\nPsilocybe\nWakefieldia p.p."
+- :title: Hymenomycete
+  :description: Hymenomycetes was formerly the largest taxonomic group of fungi within
+    the division Basidiomycota, but the term is no longer taxonomically relevant.
+    Many familiar fungi belong to this class, including bracket fungi and toadstools.[1]
+    This class contained the orders Agaricales, Boletales, and Russulales.
+- :title: Inocybe
+  :description: Inocybe is a large genus of mushroom-forming fungi with over 1400
+    species, including all forms and variations. Members of Inocybe are mycorrhizal,
+    and some evidence shows that the high degree of speciation in the genus is due
+    to adaptation to different trees and perhaps even local environments.
+- :title: Laetiporus
+  :description: Laetiporus is a genus of edible mushrooms found throughout much of
+    the world. Some species, especially Laetiporus sulphureus, are commonly known
+    as sulphur shelf, chicken of the woods, the chicken mushroom, or the chicken fungus
+    because many think they taste like chicken.  The name "chicken of the woods" is
+    not to be confused with another edible polypore, Maitake (Grifola frondosa) known
+    as "hen of the woods", or with Lyophyllum decastes, known as the "fried chicken
+    mushroom". The name Laetiporus means "with bright pores".[1]
+- :title: Lentinula
+  :description: Lentinula is a small genus of wood-inhabiting agarics. The neotropical
+    species Lentinula boryana (= L. cubensis) is the type species. However, the best-known
+    species is L. edodes, the shiitake. The genus, erected by Franklin Sumner Earle
+    in 1909,[2] contains eight species, principally found in tropical regions.[3]
+- :title: Agaricaceae
+  :description: 85; See text
+- :title: Lycoperdales
+  :description: The Lycoperdales are a now outdated order of fungi. The order included
+    some well-known types such as the giant puffball, the earthstars, and other tuberous
+    fungi. They were defined as having epigeous basidiomes, a hymenium present, one
+    to three layers in the peridium (outer wall), powdery gleba, and brown spores.
+- :title: Marasmiaceae
+  :description: Omphalotaceae Bresinsky 1985
+- :title: Morchella
+  :description: "~70 worldwide (see text)"
+- :title: Mycena
+  :description: Mycena is a large genus of small saprotrophic mushrooms that are rarely
+    more than a few centimeters in width. They are characterized by a white spore
+    print, a small conical or bell-shaped cap, and a thin fragile stem. Most are gray
+    or brown, but a few species have brighter colors. Most have a translucent and
+    striate cap, which rarely has an incurved margin. The gills are attached and usually
+    have cystidia. Some species, like Mycena haematopus, exude a latex when the stem
+    is broken, and many species have a chlorine-like odor.
+- :title: Mycena haematopus
+  :description: Mycena haematopus, commonly known as the bleeding fairy helmet, the
+    burgundydrop bonnet, or the bleeding Mycena, is a species of fungus in the family
+    Mycenaceae, of the order Agaricales. It is widespread and common in Europe and
+    North America, and has also been collected in Japan and Venezuela. It is saprotrophic—meaning
+    that it obtains nutrients by consuming decomposing organic matter—and the fruit
+    bodies appear in small groups or clusters on the decaying logs, trunks, and stumps
+    of deciduous trees, particularly beech. The fungus, first described scientifically
+    in 1799, is classified in the section Lactipedes of the genus Mycena, along with
+    other species that produce a milky or colored latex.
+- :title: Myriostoma
+  :description: Species
+- :title: Omphalotus olearius
+  :description: Omphalotus olearius, commonly known as the jack-o'-lantern mushroom,
+    is a poisonous orange gilled mushroom that to an untrained eye appears similar
+    to some chanterelles. It is notable for its bioluminescent properties. It is found
+    in woodland areas in Europe, where it grows on decaying stumps, on buried roots
+    or at the base of hardwood trees. It has also been reported from the Western Cape
+    Province, South Africa.  A similar, but phylogenetically distinct[2] species found
+    in eastern North America is Omphalotus illudens.
+- :title: Panaeolus
+  :description: |-
+    Campanularius Roussel (1806)
+    Agaricus trF. Coprinarius Fr. (1821)
+    Coprinarius (Fr.) P.Kumm. (1871)
+    Anellaria P.Karst. (1879)
+    Chalymmota P.Karst. (1879)
+    Copelandia Bres. (1912)
+- :title: Pezizaceae
+  :description: The Pezizaceae (commonly referred to as cup fungi)  are a family of
+    fungi in the Ascomycota which produce mushrooms that tends to grow in the shape
+    of a "cup".  Spores are formed on the inner surface of the fruit body (mushroom).
+    The cup shape typically serves to focus raindrops into splashing spores out of
+    the cup.  Additionally, the curvature enables wind currents to blow the spores
+    out in a different manner than in most agarics and boletes.
+- :title: Phallaceae
+  :description: |-
+    Clathraceae Chevall. 1826
+    Lysuraceae Corda 1842
+- :title: Pholiotina
+  :description: Pholiotina is a genus of small agaric fungi. It was circumscribed
+    by Swiss mycologist Victor Fayod in 1889 for Conocybe-like species with partial
+    veils.[2][3] The genus has since been expanded to include species lacking partial
+    veils.[3]
+- :title: Pleurotaceae
+  :description: |-
+    Agaricochaete
+    Antromycopsis
+    Hohenbuehelia
+    Nematoctonus
+    Pleurotus
+- :title: Pleurotus
+  :description: Pleurotus is a genus of gilled mushrooms which includes one of the
+    most widely eaten mushrooms, P. ostreatus.  Species of Pleurotus may be called
+    oyster, abalone, or tree mushrooms, and are some of the most commonly cultivated
+    edible mushrooms in the world.[1]  Pleurotus fungi have been used in mycoremediation
+    of pollutants such as petroleum and polycyclic aromatic hydrocarbons.[2][3] Oyster
+    mushrooms contain Lovastatin, a form of cholesterol lowering statin.
+- :title: Pleurotus eryngii
+  :description: Pleurotus eryngii (also known as king trumpet mushroom, French horn
+    mushroom, king oyster mushroom, king brown mushroom, boletus of the steppes,[Note
+    1] trumpet royale, aliʻi oyster) is an edible mushroom native to Mediterranean
+    regions of Europe, the Middle East, and North Africa, but also grown in many parts
+    of Asia.[1]
+- :title: Pleurotus ostreatus
+  :description: Pleurotus ostreatus, the pearl oyster mushroom or tree oyster mushroom,
+    is a common edible mushroom. It was first cultivated in Germany as a subsistence
+    measure during World War I[2] and is now grown commercially around the world for
+    food. It is related to the similarly cultivated king oyster mushroom. Oyster mushrooms
+    can also be used industrially for mycoremediation purposes.
+- :title: Pluteaceae
+  :description: |-
+    Chamaeota
+    Melanoleuca(?)[1]
+    Pluteus
+    Volvariella
+    Volvopluteus
+- :title: Pluteus
+  :description: |-
+    Pluteus brunneidiscus
+    Pluteus cervinus
+    Pluteus cyanopus
+    Pluteus glaucus
+    Pluteus leoninus
+    Pluteus nevadensis
+    Pluteus nigroviridis
+    Pluteus readiarum
+    Pluteus salicinus
+    Pluteus villosus
+- :title: Polypore
+  :description: Polypores are a group of fungi that form large fruiting bodies with
+    pores or tubes on the underside (see Delimitation for exceptions). They are a
+    morphological group of basidiomycetes-like gilled mushrooms and hydnoid fungi,
+    and not all polypores are closely related to each other. Polypores are also called
+    bracket fungi, and their woody fruiting bodies are called conks.
+- :title: Psilocybe
+  :description: List of Psilocybe species
+- :title: Psilocybin mushroom
+  :description: A psilocybin mushroom, also known as magic mushroom or psychedelic
+    mushroom, is one of a polyphyletic group of fungi that contain psilocybin and
+    psilocin.[1][2]
+- :title: Puffball
+  :description: 'Puffballs are fungi, so named because clouds of brown dust-like spores
+    are emitted when the mature fruitbody bursts or is impacted. Puffballs are in
+    the division Basidiomycota and encompass several genera, including Calvatia, Calbovista
+    and Lycoperdon.[1] True puffballs do not have a visible stalk or stem. The puffballs
+    were previously treated as a taxonomic group called the Gasteromycetes or Gasteromycetidae,
+    but they are now known to be a polyphyletic assemblage. '
+- :title: Shiitake
+  :description: The shiitake (/ʃɪˈtɑːkeɪ, ˌʃiːɪ-, -ki/;[1] Japanese: [ɕiꜜːtake] (listen)
+    Lentinula edodes) is an edible mushroom native to East Asia, which is cultivated
+    and consumed in many Asian countries. It is considered a medicinal mushroom in
+    some forms of traditional medicine.[2][3][4][5]
+- :title: Strophariaceae
+  :description: The Strophariaceae are a family of fungi in the order Agaricales.
+    Under an older classification, the family covered 18 genera and 1316 species.[1]
+    The species of Strophariaceae have red-brown to dark brown spore prints, while
+    the spores themselves are smooth and have an apical germ pore. These agarics are
+    also characterized by having a cutis-type pileipellis. Ecologically, all species
+    in this group are saprotrophs, growing on various kinds of decaying organic matter.
+    The family was circumscribed in 1946 by mycologists Rolf Singer and Alexander
+    H. Smith.[2]
+- :title: Tricholoma magnivelare
+  :description: Tricholoma magnivelare is a gilled mushroom found east of the Rocky
+    Mountains in North America growing in coniferous woodland. These ectomycorrhizal
+    fungi are typically edible species that exist in a symbiotic relationship with
+    various species of pine, commonly jack pine. They belong to the genus Tricholoma,
+    which includes the closely related East Asian songi or matsutake as well as the
+    Western Matsutake (T. murrillianum) and Meso-American Matsutake (T. mesoamericanum).  T. magnivelare
+    is also known as the ponderosa mushroom, pine mushroom, American matsutake.[2]
+- :title: Volvariella
+  :description: 'Volvariella is a genus of mushrooms with deep salmon pink gills and
+    spore prints. '
+- :title: Volvariella volvacea
+  :description: |-
+    Volvariella volvacea (also known as paddy straw mushroom or straw mushroom) is a species of edible mushroom cultivated throughout East and Southeast Asia and used extensively in Asian cuisines.
+    They are often available fresh in Asia, but are more frequently found in canned or dried forms outside their nations of cultivation. Worldwide, straw mushrooms rank third in consumption, although their use in the West is somewhat uncommon and usually confined to use in Oriental cooking.
+    [2]

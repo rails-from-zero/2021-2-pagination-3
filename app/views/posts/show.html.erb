@@ -1,0 +1,24 @@
+<article>
+  <h3><%= @post.title %></h3>
+  <div class="content">
+    <figure><%= image_tag @post.image_path %></figure>
+    <p><%= simple_format @post.body %></p>
+  </div>
+</article>
+
+<section id="comments">
+  <% @post.comments.each do |comment| %>
+    <article>
+      <p><strong><%= comment.username %></strong> said:</p>
+      <p><%= comment.body %></p>
+    </article>
+  <% end %>
+</section>
+
+<br />
+
+<%= form_for [@post, Comment.new] do |f| %>
+  <p><%= f.text_field :username, placeholder: "Your name" %></p>
+  <p><%= f.text_area :body, placeholder: "Comment" %></p>
+  <p><%= f.submit "Save" %></p>
+<% end %>

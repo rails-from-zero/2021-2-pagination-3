@@ -1,0 +1,15 @@
+<%= paginate @posts %>
+
+<% @posts.each do |post| %>
+  <article>
+    <h3>
+      <%= link_to post.title, post %>
+    </h3>
+    <div class="content">
+      <figure><%= image_tag post.image_path %></figure>
+      <p><%= simple_format truncate(post.body, length: 200) %></p>
+    </div>
+  </article>
+<% end %>
+
+<%= paginate @posts %>

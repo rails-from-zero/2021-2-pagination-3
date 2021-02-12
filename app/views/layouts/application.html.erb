@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PaginationApp</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag 'application', 'https://fonts.googleapis.com/css?family=Montserrat', media: 'all' %>
+
+    <%= javascript_pack_tag 'application' %>
+  </head>
+
+  <body>
+    <div id="page">
+      <h1><%= link_to "The Mushroom Zone", :root %></h1>
+
+      <%= yield %>
+    </div>
+  </body>
+</html>
