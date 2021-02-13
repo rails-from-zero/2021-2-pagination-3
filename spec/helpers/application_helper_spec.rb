@@ -14,18 +14,23 @@ RSpec.describe ApplicationHelper do
     }
     let(:current_page) { 2 }
 
+    let(:params) {
+      ActionController::Parameters.new(controller: "posts")
+    }
+
     before do
       allow(RenderablePagesCalculator)
         .to receive(:new).and_return(calculator)
+      allow(helper).to receive(:params).and_return(params)
     end
 
-    it { is_expected.to include('<a href="/posts?page=3">next</a>') }
+    it { is_expected.to include('<a href="/?page=3">next</a>') }
 
-    it { is_expected.to include('<a href="/posts?page=1">previous</a>') }
+    it { is_expected.to include('<a href="/?page=1">previous</a>') }
 
-    it { is_expected.to include('<a href="/posts?page=1">1</a>') }
+    it { is_expected.to include('<a href="/?page=1">1</a>') }
 
-    it { is_expected.to include('<a href="/posts?page=3">3</a>') }
+    it { is_expected.to include('<a href="/?page=3">3</a>') }
 
     context "on first page" do
       let(:current_page) { 1 }

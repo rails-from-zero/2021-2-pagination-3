@@ -1,18 +1,18 @@
 module ApplicationHelper
-  def paginate(posts)
+  def paginate(entries)
     content_tag :div, class: "pagination" do
       concat render_pagination_link(
                "previous",
-               posts.current_page - 1,
-               posts.current_page <= 1
+               entries.current_page - 1,
+               entries.current_page <= 1
              )
 
-      render_page_numbers(posts.total_pages, posts.current_page)
+      render_page_numbers(entries.total_pages, entries.current_page)
 
       concat render_pagination_link(
                "next",
-               posts.current_page + 1,
-               posts.current_page == posts.total_pages
+               entries.current_page + 1,
+               entries.current_page == entries.total_pages
              )
     end
   end
@@ -30,7 +30,12 @@ module ApplicationHelper
 
   def render_pagination_link(label, page, disabled)
     content_tag :span, class: ("disabled" if disabled) do
-      link_to_unless disabled, label, posts_path(page: page)
+      path = params
+               .to_unsafe_h
+               .merge(page: page, only_path: true)
+               .except(:script_name, :original_script_name)
+
+      link_to_unless disabled, label, path
     end
   end
 end

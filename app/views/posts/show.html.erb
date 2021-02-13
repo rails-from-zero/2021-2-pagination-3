@@ -7,13 +7,15 @@
 </article>
 
 <section id="comments">
-  <% @post.comments.each do |comment| %>
+  <% @comments.each do |comment| %>
     <article>
       <p><strong><%= comment.username %></strong> said:</p>
       <p><%= comment.body %></p>
     </article>
   <% end %>
 </section>
+
+<%= paginate @comments %>
 
 <br />
 
